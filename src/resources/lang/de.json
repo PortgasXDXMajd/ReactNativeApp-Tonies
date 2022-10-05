@@ -1,0 +1,100 @@
+{
+  "label_attention": "Achtung",
+  "label_attentionDescr": "Wir benötigen Zugriff auf deine Position, sonst können keine Fahrten aufgezeichnet werden.",
+  "Label_Cancel": "Abbrechen",
+  "label_Login": "Anmeldung",
+  "Label_LoginDescroption": "Verwenden Sie Ihre E-Mail-Adresse und Ihr Passwort, um sich anzumelden.",
+  "Label_Email": "Email",
+  "Label_Password": "Passwort",
+  "label_ForgotPassword": "Passwort vergessen?",
+  "label_RegisterNow": "Jetzt registrieren",
+  "label_NoAccount": "Sie haben kein Konto?",
+
+  "Label_Register": "Registrieren",
+  "Label_UserName": "Nutzername",
+  "Label_AgreePolicy": "Indem du fortfährst, stimmst du den Fitlines",
+  "Label_And": "und",
+  "Label_PrivacyPolicy": "Datenschutz-Bestimmungen",
+  "Label_TermAndConditions": "Geschäftsbedingungen",
+
+  "Label_ResetPassword": "Passwort zurücksetzen",
+  "Label_ChangePassword": "Passwort ändern",
+  "Label_EnterANewPassword": "Geben Sie ein neues Kennwort ein",
+  "Label_EnterANewPasswordToChangeIt": "Geben Sie ein neues Passwort ein, um es zu ändern",
+  "Label_OldPassword": "Altes Passwort",
+  "Label_NewPassword": "Neues Kennwort",
+  "Label_NewPasswordConfirmation": "Neues Passwort bestätigen",
+
+  "Label_Home": "Heim",
+  "Label_Challenge": "Herausforderung",
+  "Label_Track": "Track!",
+  "Label_Rides": "Fahrten",
+  "Label_Profile": "Profil",
+  "Label_Work": "Arbeit",
+
+  "Label_Skip": "Überspringen",
+
+  "Label_intro1": "Tun Sie etwas für die Umwelt und nutzen Sie Ihr Fahrrad",
+  "Label_intro2": "Sie werden von Ihrem Arbeitgeber belohnt",
+
+  "Label_Distance": "Distanz",
+  "Label_Duration": "Dauer",
+  "Label_StartTracking": "Fahrt aufnehmen",
+  "Label_StopTracking": "Fahrt beenden",
+
+  "Label_greetings": "wir müssen etwas wissen",
+  "Label_whereToLive": "Willst du uns mitteilen, wo du wohnst?",
+  "Label_ToSave": "SPEICHERN",
+  "Label_discard": "Verwerfen",
+
+  "Label_UploadTracking": "Fahrt hochladen",
+  "Label_SuccessUploadedRide": "Wir haben deine Fahrt erfolgreich hochgeladen!",
+  "Label_Back": "Zurück",
+
+  "Label_Bounces": "Deine Gutscheine",
+  "Label_Hello": "Hallo",
+  "Label_LatestRides": "Letzte Fahrten",
+  "Label_NoLocationPreview": "Keine Standortvorschau",
+  "Label_YourRides": "Deine Fahrten",
+  "Label_Redeem": "Einlösen",
+  "Label_RedeemWaring": "Bitte nur einlösen, wenn du vom Personal dazu aufgefordert wirst!",
+  "label_VoucherRedeemedSuccessfully!": "Gutschein erfolgreich eingelöst!",
+  "Label_LongPressPlease": "Noch 5 Sekunden gedrückt halten, um deinen Gutschein einzulösen.",
+
+  "Label_Altitude": "Höhe",
+  "Label_TourCount": "Tour-Zählung",
+
+  "Label_YourGoodDeedToTheWorld": "Deine gute Tat für die Welt  🔥",
+  "Label_YouSavedTrees": "Du hast schon 30 Bäume gerettet!",
+  "Label_Tours": "Fahrten",
+  "Label_OUTOF": "aus",
+
+  "label_YourChallenges": "Deine Challenges 🔥",
+  "label_OtherChallenges": "Weitere Challenges 🔥",
+
+  "button_SeeAll": "Alles Sehen",
+
+  "Label_ToursDriven": "Touren gefahren",
+  "Label_DistanceManaged": "km Entfernung verwaltet",
+  "Label_AltitudeOvercome": "km Höhe überwunden",
+  "CashingDate": "Zahlungsdatum",
+  "BonusesOverview": "Bonusübersicht",
+  "Label_NoNotification": "Keine Benachrichtigung verfügbar",
+  "Label_Notification": "Benachrichtigungen",
+  "Label_Deactivate": "Deaktivieren",
+  "Label_Deactivated": "Deaktiviert",
+
+  "Label_NoBonuses": "Keine Boni",
+  "Label_OverWriteLocation": "Möchten Sie Ihre Standorte überschreiben?",
+  "Label_CreateChallenge": "Herausforderung erstellen",
+  "Label_CreateChallengeDescription": "Füge deine eigene Challenge hinzu!",
+  "ChallengeTitle": "Titel",
+  "ChallengeDescription": "Beschreibung",
+  "LabelSave": "Speichern",
+  "Label_SelectImage": "Bild Auswählen",
+  "Label_Camera": "Kamera",
+  "Label_Photo": "Fotobibliothek",
+
+  "NumberGroupSeprater": ".",
+  "NumberDecimalSeprater": ","
+}

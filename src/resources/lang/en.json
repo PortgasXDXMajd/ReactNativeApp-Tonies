@@ -1,0 +1,100 @@
+{
+  "label_attention": "Attention",
+  "label_attentionDescr": "We need to be able to track your GPS in background. If you don’t accept this permission, we won’t be able to track your position while your screen is turned off.",
+  "Label_Cancel": "Cancel",
+  "label_Login": "Login",
+  "Label_LoginDescroption": "Use your email address and password to log in.",
+  "Label_Email": "Email",
+  "Label_Password": "Password",
+  "label_ForgotPassword": "Forgot Password?",
+  "label_RegisterNow": "Register Now",
+  "label_NoAccount": "You don't have an account?",
+
+  "Label_Register": "Register",
+  "Label_UserName": "Username",
+  "Label_AgreePolicy": "By continuing forwards, you agree to Fitline's",
+  "Label_And": "and",
+  "Label_PrivacyPolicy": "Privacy Policy",
+  "Label_TermAndConditions": "Terms & Conditions",
+
+  "Label_ResetPassword": "Reset Password",
+  "Label_ChangePassword": "Change Password",
+  "Label_EnterANewPassword": "Enter a new Password",
+  "Label_EnterANewPasswordToChangeIt": "Enter a new password to change it",
+  "Label_OldPassword": "Old Password",
+  "Label_NewPassword": "New Password",
+  "Label_NewPasswordConfirmation": "New Password Confirmation",
+
+  "Label_Home": "Home",
+  "Label_Challenge": "Challenge",
+  "Label_Track": "Track!",
+  "Label_Rides": "Rides",
+  "Label_Profile": "Profile",
+  "Label_Work": "Work",
+
+  "Label_Skip": "Skip",
+
+  "Label_intro1": "Do something for the environment and use your bike",
+  "Label_intro2": "You will be of yours Employer rewards",
+
+  "Label_Distance": "Distance",
+  "Label_Duration": "Duration",
+  "Label_StartTracking": "Pick up speed",
+  "Label_StopTracking": "End journey",
+
+  "Label_greetings": "we need to know something",
+  "Label_whereToLive": "Do you want to tell us where you live?",
+  "Label_ToSave": "Save",
+  "Label_discard": "Discard",
+
+  "Label_UploadTracking": "Upload trip",
+  "Label_SuccessUploadedRide": "We have successfully uploaded your ride!",
+  "Label_Back": "Back",
+
+  "Label_Bounces": "Your Vouchers",
+  "Label_Hello": "Hello",
+  "Label_LatestRides": "Latest Rides",
+  "Label_NoLocationPreview": "No Location Preview",
+  "Label_YourRides": "Your Rides",
+  "Label_Redeem": "Redeem",
+  "Label_RedeemWaring": "Please only redeem if you are asked to do so by the staff!",
+  "label_VoucherRedeemedSuccessfully!": "Voucher redeemed successfully!",
+  "Label_LongPressPlease": "Hold down for another 5 seconds to redeem your voucher.",
+
+  "Label_Altitude": "Altitude",
+  "Label_TourCount": "Tour Count",
+
+  "Label_YourGoodDeedToTheWorld": "Your Good Deed For The World  🔥",
+  "Label_YouSavedTrees": "You have already saved 30 trees!",
+
+  "Label_Tours": "Tours",
+  "Label_OUTOF": "out of",
+
+  "label_YourChallenges": "Your Challenges 🔥",
+  "label_OtherChallenges": "Other Challenges 🔥",
+
+  "button_SeeAll": "See All",
+
+  "Label_ToursDriven": "Tours Driven",
+  "Label_DistanceManaged": "Distance Managed",
+  "Label_AltitudeOvercome": "Altitude Overcome",
+  "CashingDate": "cashing date",
+  "BonusesOverview": "Bonuses overview",
+  "Label_NoNotification": "No Notification Available",
+  "Label_Notification": "Notifications",
+  "Label_Deactivate": "Deactivate",
+  "Label_Deactivated": "Deactivated",
+  "Label_NoBonuses": "No Bonuses",
+  "Label_OverWriteLocation": "Would you like to overwrite your locations?",
+  "Label_CreateChallenge": "Create Challenge",
+  "Label_CreateChallengeDescription": "Add your own challenge!",
+  "ChallengeTitle": "Title",
+  "ChallengeDescription": "Description",
+  "LabelSave": "Save",
+  "Label_SelectImage": "Select Image",
+  "Label_Camera": "Camera",
+  "Label_Photo": "Photo Library",
+
+  "NumberGroupSeprater": ",",
+  "NumberDecimalSeprater": "."
+}

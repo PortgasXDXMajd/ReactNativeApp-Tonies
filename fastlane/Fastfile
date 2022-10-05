@@ -1,0 +1,1 @@
+import_from_git(url: 'git@ssh.dev.azure.com:v3/softwarebw2021/development/fastlane-fastfile')

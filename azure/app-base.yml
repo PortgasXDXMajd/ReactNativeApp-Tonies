@@ -1,0 +1,25 @@
+trigger:
+  - master
+  - feature/*
+  - hotfix/*
+  - bugfix/*
+
+variables:
+  - group: common
+  - group: app
+  - name: YARN_CACHE_FOLDER
+    value: $(Pipeline.Workspace)/.yarn
+
+resources:
+  repositories:
+    - repository: templates
+      type: git
+      name: development/azure-templates
+      ref: v1
+    - repository: fastlane
+      type: git
+      name: development/fastlane-fastfile
+      ref: v1
+
+stages:
+  - template: app.yml@templates
